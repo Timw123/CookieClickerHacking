@@ -1,3 +1,7 @@
+/*
+NOTICE:
+Do NOT type any letters or a 0 before select amount
+*/
 //inspect element
 var lumpsSelect = prompt("Any positive number")
 Game.lumps=lumpsSelect
